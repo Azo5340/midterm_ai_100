@@ -1,4 +1,4 @@
-# Midterm Project – CNN Image Classification on CIFAR-10
+# Midterm Project ( graded: 80/80 to this project) – CNN Image Classification on CIFAR-10
 **AI 100 – Penn State University**
 
 ## Problem
